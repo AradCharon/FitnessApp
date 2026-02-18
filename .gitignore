@@ -1,0 +1,30 @@
+# Java / IDE
+*.class
+bin/
+out/
+build/
+*.iml
+*.ipr
+*.iws
+.idea/
+*.classpath
+*.project
+*.settings/
+*.log
+*.jar
+*.war
+*.ear
+*.tmp
+*.temp
+*.swp
+
+# Python / Cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.cache/
+
+# System
+.DS_Store
+Thumbs.db
