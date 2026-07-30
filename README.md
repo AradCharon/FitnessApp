@@ -42,6 +42,7 @@ The goal of this project is not only to build a workout tracker but also to demo
 * 🔐 Secure user registration
 * 🔒 Secure login using BCrypt password hashing
 * 👤 User profile management
+* ✏️ Edit user profile information
 * 💪 Add strength exercises
 * 🏃 Add cardio exercises
 * 📊 Dashboard with workout statistics
@@ -57,7 +58,7 @@ The goal of this project is not only to build a workout tracker but also to demo
 * 📝 Clean and maintainable code
 * 🔄 CardLayout-based navigation
 * 🚪 Logout functionality
-* ⚙ Easily extensible architecture
+* ⚙️ Easily extensible architecture
 
 ---
 
@@ -303,7 +304,6 @@ Through this project, I practiced and improved my understanding of:
 
 Possible future enhancements include:
 
-* User profile editing
 * Exercise editing
 * Workout categories
 * Personalized workout plans
@@ -318,7 +318,6 @@ Possible future enhancements include:
 * Unit testing with JUnit
 * Statistics dashboard
 * Configuration file support
-
 ---
 
 # 👨‍💻 Author
