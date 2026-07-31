@@ -62,6 +62,30 @@ The goal of this project is not only to build a workout tracker but also to demo
 
 ---
 
+# 📸 Screenshots
+
+## Register
+
+![Register](register.png)
+
+## Login
+
+![Login](login.png)
+
+## Dashboard
+
+![Dashboard](dashboard.png)
+
+## Exercise Management
+
+![Exercise Panel](exercises.png)
+
+## Profile
+
+![Profile](profile.png)
+
+---
+
 # 🧠 Software Engineering Concepts
 
 This project demonstrates the following concepts:
@@ -92,6 +116,12 @@ This project demonstrates the following concepts:
 
 ```text
 FitnessApp/
+│
+├── register.png
+├── login.png
+├── dashboard.png
+├── exercises.png
+├── profile.png
 │
 ├── src/
 │   ├── main/
@@ -318,6 +348,7 @@ Possible future enhancements include:
 * Unit testing with JUnit
 * Statistics dashboard
 * Configuration file support
+
 ---
 
 # 👨‍💻 Author
