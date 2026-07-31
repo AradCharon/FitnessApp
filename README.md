@@ -66,23 +66,23 @@ The goal of this project is not only to build a workout tracker but also to demo
 
 ## Register
 
-![Register](register.png)
+![Register](Register.png)
 
 ## Login
 
-![Login](login.png)
+![Login](Login.png)
 
 ## Dashboard
 
-![Dashboard](dashboard.png)
+![Dashboard](Dashboard.png)
 
 ## Exercise Management
 
-![Exercise Panel](exercises.png)
+![Exercise Panel](Exercises.png)
 
 ## Profile
 
-![Profile](profile.png)
+![Profile](Profile.png)
 
 ---
 
